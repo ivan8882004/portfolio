@@ -12,18 +12,19 @@ const SideBar = () => (
         <img src={`${PUBLIC_URL}/images/me.jpg`} alt="" />
       </Link>
       <header>
-        <h2>Michael D&apos;Angelo</h2>
-        <p><a href="mailto:michael@mldangelo.com">michael@mldangelo.com</a></p>
+        <h2>Ivan Cheung</h2>
+        <p><a href="mailto:ivan888@connect.hku.hk">ivan888@connect.hku.hk</a></p>
       </header>
     </section>
 
     <section className="blurb">
       <h2>About</h2>
-      <p>Hi, I&apos;m Michael. I am a <a href="https://icme.stanford.edu/">Stanford ICME</a> graduate, YC Alumni,
-        and the VP of Engineering at <a href="https://smileidentity.com">Smile Identity</a>. Previously,
-        I was the co-founder and CTO of <a href="https://arthena.com">Arthena</a>
-        , co-founder of <a href="https://matroid.com">Matroid</a>, and worked at
-        {' '}<a href="https://planet.com">Planet</a> and <a href="https://facebook.com">Facebook</a>.
+      <p>
+        Hi, I&apos;m Ivan. I am studying Computer Science, Finance, and Statistics in HKU.
+        My interests lie in machine learning and trading,
+        , and I am determined to forge a career in quantitative finance.
+        Presently, I am actively searching for internship opportunities,
+        to gain valuable industry experience and further develop my skills.
       </p>
       <ul className="actions">
         <li>
@@ -34,7 +35,7 @@ const SideBar = () => (
 
     <section id="footer">
       <ContactIcons />
-      <p className="copyright">&copy; Michael D&apos;Angelo <Link to="/">mldangelo.com</Link>.</p>
+      <p className="copyright">&copy; Ivan Cheung;<Link to="/">hi.com</Link>.</p>
     </section>
   </section>
 );
