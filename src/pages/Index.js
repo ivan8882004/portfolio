@@ -23,6 +23,7 @@ const Index = () => (
         <Link to="/projects">projects</Link>, {' '}
         view <Link to="/stats">site statistics</Link>, {' '}
         or <Link to="/contact">contact</Link> me.
+        Credit to Michael for providing the template of website
       </p>
     </article>
   </Main>

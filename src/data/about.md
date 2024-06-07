@@ -1,6 +1,18 @@
 # Intro
 
-I am from Hong Kong.
+I am a student from Hong Kong.
+
+
+
+# Awards in Uni
+- Dean List HKU Faculty of Engineering 2022-2023
+- Centaline Charity Fund Scholarship 2022-2024
+- Dean's Award 2022-2024
+- Y S and Christabel Lung Undergraduate Scholarship for Engineering Students 2022-2024
+- Li Po Chun Charitable Trust Fund Undergraduate Scholarship 2022-24
+
+# Awards in high school
+- Asia International Mathematical Olympiad Open Contest Silver Award
 
 # Some history
 
@@ -11,12 +23,12 @@ Ask me in person for other stories that I'm afraid to share with the internet.
 
 # I like
 
-- Running
+- Table Tennis
 - Gaming
-- Sleeping
+- Reading
 - IU
 - Autumn
-- [Books](https://www.usccb.org/offices/new-american-bible/books-bible)
+- [Books](https://www.amazon.com/Active-Portfolio-Management-Quantitative-Controlling/dp/0070248826)
 
 
 # Travel / Geography
