@@ -29,7 +29,7 @@ const data = [
     label: 'Countries visited',
     value: 1,
     link:
-      'https://www.google.com/maps/d/embed?mid=1iBBTscqateQ93pWFVfHCUZXoDu8&z=2',
+      'https://www.google.com.hk/maps/',
   },
   {
     key: 'location',
